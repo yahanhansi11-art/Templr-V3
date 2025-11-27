@@ -272,4 +272,4 @@ const ChatModal: React.FC<ChatModalProps> = ({ isOpen, onClose, creatorName }) =
   );
 };
 
-export default ChatModal;
+export default ChatModal; 
